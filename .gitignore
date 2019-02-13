@@ -1,0 +1,5 @@
+# Logs
+/*.ts
+/*.js
+/*.log
+/node_modules
